@@ -7,10 +7,8 @@
     'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 }
 
-body {
-  background: #345;
-}
-
-h1 {
-  color: #ddd;
+a {
+  text-decoration: none;
+  color: #345;
+  font-weight: 900;
 }
